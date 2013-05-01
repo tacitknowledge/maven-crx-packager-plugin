@@ -15,6 +15,10 @@
     <version>1.0.0-SNAPSHOT</version>
     <description>This package contains all helper plugin to automatically send the crx package and install it</description>
 
+    <properties>
+      <coverage.haltOnFailure>false</coverage.haltOnFailure>
+    </properties>
+
     <scm>
         <connection>scm:git:https://github.com/tacitknowledge/maven-crx-packager-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:tacitknowledge/maven-crx-packager-plugin.git</developerConnection>
