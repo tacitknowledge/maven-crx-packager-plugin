@@ -12,7 +12,7 @@
     <artifactId>maven-crx-packager-plugin</artifactId>
     <name>CRX Package Maven Plugin</name>
     <packaging>maven-plugin</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <description>This package contains all helper plugin to automatically send the crx package and install it</description>
 
     <properties>
